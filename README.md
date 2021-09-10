@@ -1,2 +1,2 @@
 # proyectoindividualghub
-https://soscarchillan.github.io/proyectoindividualghub/
+https://github.com/soscarchillan/proyectoindividualghub
