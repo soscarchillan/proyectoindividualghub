@@ -20,7 +20,7 @@
         document.body.appendChild(aux);
         aux.select();
         document.execCommand("copy");
-        document.body.removeChild(aux);
+        document.body.removeChild(aux)
         document.getElementById("text").innerHTML = "Copiado!";
     }
-
+    
