@@ -1,0 +1,39 @@
+.tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  .hex:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .button{
+      position: down;
+  }
+
+.tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  .hex:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .button{
+      position: down;
+  }
